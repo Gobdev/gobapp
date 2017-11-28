@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GobApp</string>
+    <string name="description_left">Born by the Goblet.\nMade men by the Goblet.</string>
+    <string name="description_center">Nyahaha! You found me.</string>
+    <string name="description_right">Never hire someone from Poland.</string>
+    <string name="left_tab">Alt-Left</string>
+    <string name="center_tab">Alt-Center</string>
+    <string name="right_tab">Alt-Right</string>
+</resources>
